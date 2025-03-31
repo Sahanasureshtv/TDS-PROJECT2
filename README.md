@@ -1,4 +1,4 @@
-# GPT_GA_Solver
+# TDS PROJECT 2
 
 This repository has the second project for the Course _Tools in Data Science_ in IIT Madras B.S in Data Science and Programming Degree
 
